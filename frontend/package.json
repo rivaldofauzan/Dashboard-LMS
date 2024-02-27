@@ -1,0 +1,22 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Dashboard LMS",
+  "main": "\t",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivaldofauzan/Dashboard-LMS.git"
+  },
+  "keywords": [
+    "lms"
+  ],
+  "author": "aini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rivaldofauzan/Dashboard-LMS/issues"
+  },
+  "homepage": "https://github.com/rivaldofauzan/Dashboard-LMS#readme"
+}
